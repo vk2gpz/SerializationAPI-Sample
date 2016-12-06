@@ -1,0 +1,5 @@
+name: SerializationAPI
+main: com.vk2gpz.serializationapi.SerializationAPI
+version: ${project.version}
+author: vk2gpz
+description: Basic NBT serialisation.
