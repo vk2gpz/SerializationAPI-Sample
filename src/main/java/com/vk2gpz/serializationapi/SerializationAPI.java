@@ -24,6 +24,9 @@ import java.util.UUID;
 import java.util.logging.Logger;
 
 public class SerializationAPI extends JavaPlugin {
-	public static void saveVault(final Player player) {}
+	public static void saveVault(final Player player) {
+		// this is where you can implement various method
+		// such as extra anti dupe method.
+	}
 }
 
